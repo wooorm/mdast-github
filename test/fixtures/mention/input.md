@@ -6,7 +6,7 @@ For example, @user, @organization, or @organization/team-name.
 
 GitHub ignores @mention and @mentions.
 
-Some valid real world examples: @a, @github, @github/security, @dependabot[bot].
+Some valid real world examples: @a, @github, @github/security, @dependabot[bot], @myname0.
 
 But this is invalid: @-w.
 
